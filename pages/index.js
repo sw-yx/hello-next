@@ -4,7 +4,7 @@ import fetch from 'isomorphic-unfetch'
 
 const Index = (props) => (
   <Layout>
-    <h1>Batman TV Shows Potato Monkey</h1>
+    <h1>Batman TV Shows Potato potaotoatoatoaoto</h1>
     <ul>
       {props.shows.map((show) => (
         <li key={show.id}>
